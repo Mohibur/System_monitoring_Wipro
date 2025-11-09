@@ -53,7 +53,7 @@ system-monitor/
 
 ---
 
-## ⚙️ Installation (macOS)
+## ⚙️ Installation (windows)
 
 ### 1️⃣ Install Dependencies
 Install required packages using **Homebrew**:
